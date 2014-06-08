@@ -27,7 +27,7 @@ Anders als beim traditionellen Archivierungsverständnis, wo es um den möglichs
 
 ### Umsetzung an der DNB ###
 
-Die DNB sammelt seit Mitte 2006 Veröffentlichungen aus dem Internet. Den Erhalt der digitalen Daten sicherstellen zu können und gleichzeitig auch die langfristige Interpretierbarkeit der Inhalte zu gewährleisten, ist eine große Herausforderung. Um dies gewährleisten zu können, arbeitet die DNB an zwei unterschiedlichen Herangehensweisen. 
+Die DNB sammelt seit Mitte 2006 Veröffentlichungen aus dem Internet. Der Erhalt der digitalen Daten, dass sicherstellen können und gleichzeitig auch die langfristige Interpretierbarkeit der Inhalte zu gewährleisten, ist eine große Herausforderung. Um dies gewährleisten zu können, arbeitet die DNB an zwei unterschiedlichen Herangehensweisen. 
 Eine Möglichkeit ist es, zum Aufrufen von digitalen Inhalten frühere Systemumgebungen in einer aktuellen Systemumgebung nachzustellen (Emulation). Der entgegengesetzte Weg ist es, frühere Dateiformate in ein aktuelles zu formatieren (Migration). 
 In nationaler und internationaler Kooperation werden an der DNB technische Verfahren eingesetzt und weiterentwickelt, um die Langzeitarchivierung gewährleisten zu können.[@misc{Steinke.2013}]
 
@@ -35,11 +35,11 @@ In nationaler und internationaler Kooperation werden an der DNB technische Verfa
 
 *[Kopal][4] : Kooperativer Aufbau eines Langzeitarchivs digitaler Informationen (Laufzeit 2004 – 2007)*
 
-Ziel des Projektes war der Aufbau einer technischen und organisatorischen Lösung, um die Langzeitverfügbarkeit von elektronischen Publikationen zu sichern. Am Projekt beteiligten sich auch die SUB Göttingen und IBM Deutschland. Die entwickelte Software, die Formatmigrationsabläufe unterstützt (Einspielen und Abrufen der Archivobjekte) heißt kopal Library for Retrieval and Ingest (koLibRI). Hierbei handelt es sich um eine Open-Source-Software, die eine Bibliothek von Java-Tools zur Verfügung stellt.[@misc{DeutscheNationalbibliotheku.a.}]
+Ziel des Projektes war der Aufbau einer technischen und organisatorischen Lösung, um die Langzeitverfügbarkeit von elektronischen Publikationen zu sichern. Am Projekt beteiligten sich die SUB Göttingen und IBM Deutschland. Die entwickelte Software, die Formatmigrationsabläufe unterstützt (Einspielen und Abrufen der Archivobjekte) heißt "kopal Library for Retrieval and Ingest" (koLibRI). Hierbei handelt es sich um eine Open-Source-Software, die eine Bibliothek von Java-Tools zur Verfügung stellt.[@misc{DeutscheNationalbibliotheku.a.}]
 
 *[DP4lib][5] : Digital Preservation for Libraries (Laufzeit 12.2009 – 02.2012)*
 
-Dieses Projekt baute auf den Ergebnissen von kopal auf. Mit DP4lib sollte eine möglichst nachnutzbare und flexible Infrastruktur für die Langzeitarchivierung etabliert werden. Neben der technischen Infrastruktur wurden auch notwendige Service- und Betriebsmodelle zur Etablierung von Langzeitarchivierungsdienstleistungen aufgebaut. Ebenfalls wurde ein Kostenmodell erstellt, mit dem sich die Kosten für aufgebaute/geplante Dienstleistungen im Vorfeld berechnen lassen.  Neben der SUB Göttingen beteiligten sich unter anderem auch der GBV und die TIB an dem Projekt. Seit 2013 wird dieser Service zur Langzeitarchivierung unter dem Namen AREDO betrieben.[@misc{DeutscheNationalbibliothek.}], [@misc{DeutscheNationalbibliothek.2012}]
+Dieses Projekt baute auf den Ergebnissen von kopal auf. Mit DP4lib sollte eine möglichst nachnutzbare und flexible Infrastruktur für die Langzeitarchivierung etabliert werden. Neben der technischen Infrastruktur wurden auch notwendige Service- und Betriebsmodelle zur Etablierung von Langzeitarchivierungsdienstleistungen aufgebaut. Ebenfalls wurde ein Kostenmodell erstellt, mit dem sich die Kosten für aufgebaute/geplante Dienstleistungen im Vorfeld berechnen lassen.  Neben der SUB Göttingen beteiligten sich unter anderem auch der GBV und die TIB Hannover an dem Projekt. Seit 2013 wird dieser Service zur Langzeitarchivierung unter dem Namen AREDO betrieben.[@misc{DeutscheNationalbibliothek.}], [@misc{DeutscheNationalbibliothek.2012}]
 
 ### Wie viel wurde bereits archiviert? ###
 
